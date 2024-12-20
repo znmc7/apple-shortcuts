@@ -1,11 +1,11 @@
 # apple-shortcuts
-This my collection of useful shortcuts I made from scratch in the shortcuts app. Feel free to use them yourself!
-Edit the titles, icons, and add them to wherever you find them most useful.
-iOS18 allows you to add shortcuts to your control center and home screen, which I absolutely love. 
-On MacOS15, these can be added to your Menu Bar, the Dock, as a Widget, or with a keyboard shortcut.
+##### This my collection of useful shortcuts I made from scratch in the shortcuts app. Feel free to use them yourself!
+##### Edit the titles, icons, and add them to wherever you find them most useful.
+##### iOS18 allows you to add shortcuts to your control center and home screen, which I absolutely love. 
+##### On MacOS15, these can be added to your Menu Bar, the Dock, as a Widget, or with a keyboard shortcut.
 
 ## Automatically start directions to your next event when connecting to CarPlay: Titled 'Year 3000 GPS'
-When automated this shortcut does not need to be added anywhere to work correctly.
+When automated this shortcut does not need to be added anywhere to work correctly. One of the most useful ways I use CarPlay!
 ### Uses the maps app & calendar app, to be integrated in vehicles with Apple CarPlay
 #### Copy Link: [https://www.icloud.com/shortcuts/1c986658ef8f419f8d7bf3447013ad1c]
 ##### How To Automate: 
